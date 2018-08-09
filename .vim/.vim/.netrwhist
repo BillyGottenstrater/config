@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/bg/Classes/KDD/Lab3/.git'
+let g:netrw_dirhist_2='/Users/bg/Classes/KDD/Lab4/dataset/C50test/LydiaZajc'
+let g:netrw_dirhist_3='/Users/bg/Classes/KDD/Lab4/cluster_results'
+let g:netrw_dirhist_4='/Users/bg/Classes/KDD'
+let g:netrw_dirhist_5='/Users/bg/Classes/KDD/Lab5/dataset/small'
+let g:netrw_dirhist_6='/Users/bg/.oh-my-zsh/themes'
+let g:netrw_dirhist_7='/Users/bg/.vim'
+let g:netrw_dirhist_8='/Users/bg/.vim/colors'
+let g:netrw_dirhist_9='/Users/bg/config/.vim/colors'

@@ -1,7 +1,7 @@
 set nocp
 set backspace=2
 syntax on
-colorscheme monokai
+colorscheme molokai
 filetype plugin indent on
 set cursorline
 set tabstop=4
